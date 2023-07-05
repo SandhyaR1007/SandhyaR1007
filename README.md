@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **grajwanshi1008@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sandhya-rajwanshi-a75b331b4](https://www.linkedin.com/in/sandhya-rajwanshi-a75b331b4)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sandhyarajwanshi](https://www.linkedin.com/in/sandhyarajwanshi)
 
 - ⚡ Fun fact **I like anime**
 
