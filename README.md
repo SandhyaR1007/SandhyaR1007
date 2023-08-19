@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandhya Rajwanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [webuzz](https://webuzz.netlify.app/)
+- 🔭 I’m currently working on movie app for a task.
 
 - 🌱 I’m currently learning **Typescript, Redux**
 
