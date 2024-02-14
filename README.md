@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on movie app for a task.
 
-- 🌱 I’m currently learning **Typescript, Redux**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandhyaR1007](https://github.com/SandhyaR1007)
 
