@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandhya Rajwanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on my portfolio.
+- 🔭 I'm currently working on my portfolio.
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I'm currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandhyaR1007](https://github.com/SandhyaR1007)
 
@@ -71,3 +71,13 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=sandhyar1007" alt="sandhyar1007" /></p>
 
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="100" />
+</div>
